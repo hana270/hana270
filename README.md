@@ -1,6 +1,9 @@
-## Hi there 👋  
+<div align="center">
+  <h1>👋 Hi there!</h1>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400"/>
+</div>
 
-![Cute Programming GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
+---
 
 ### 🌟 À propos de moi  
 Je suis une **développeuse passionnée** par l'exploration de nouvelles technologies et la création de solutions innovantes. Toujours prête à relever des défis et à apprendre, j'évolue chaque jour dans l'univers fascinant de la programmation.  
@@ -10,19 +13,26 @@ Je suis une **développeuse passionnée** par l'exploration de nouvelles technol
 - 👯 Je cherche à collaborer sur des projets stimulants pour enrichir mes compétences et contribuer à des idées novatrices.  
 - 📫 **Contactez-moi :** [hanabelhadj27@gmail.com](mailto:hanabelhadj27@gmail.com)  
 
-### ⚡ Quelques faits amusants  
-- 🎨 J'adore combiner **design** et **code** pour créer des interfaces intuitives.  
-- 🧩 Chaque bug est pour moi une opportunité d'apprendre quelque chose de nouveau.  
+---
+
+<div align="center">
+  <h2>⚡ Quelques faits amusants</h2>
+  <p>🎨 J'adore combiner <strong>design</strong> et <strong>code</strong> pour créer des interfaces intuitives.</p>
+  <p>🧩 Chaque bug est pour moi une opportunité d'apprendre quelque chose de nouveau.</p>
+</div>
 
 ---
 
 ### 🌐 Stats GitHub  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hana270&show_icons=true&theme=light)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hana270&layout=compact&theme=light)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hana270&show_icons=true&theme=light" alt="GitHub Stats" width="400"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hana270&layout=compact&theme=light" alt="Top Langs" width="400"/>
+</div>
 
 ---
 
-### 🤝 Connect with me  
-[LinkedIn](https://www.linkedin.com/in/hana-belhadj/) | [Email](mailto:hanabelhadj27@gmail.com)  
-
-🚀 Mon **portfolio** est en cours de réalisation, restez à l'écoute !
+<div align="center">
+  <h2>🤝 Connect with me</h2>
+  <p><a href="https://www.linkedin.com/in/hana-belhadj/">LinkedIn</a> | <a href="mailto:hanabelhadj27@gmail.com">Email</a></p>
+  <p>🚀 Mon <strong>portfolio</strong> est en cours de réalisation, restez à l'écoute !</p>
+</div>
